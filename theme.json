@@ -10,5 +10,23 @@
     "img": "https://raw.githubusercontent.com/Arashvscode/GhostWebThemes/main/images/theme_pishfarz.png",
     "data": "https://github.com/Arashvscode/GhostWebThemes/blob/main/Themes/themepishfarz.zip?raw\u003dtrue",
     "log": "themePishFars.zip"
+  },
+  {
+    "name": "تم آبی ",
+    "img": "https://raw.githubusercontent.com/Arashvscode/GhostWebThemes/main/images/BLUE%20THEME.png",
+    "data": "https://github.com/Arashvscode/GhostWebThemes/blob/main/Themes/blueTheme.zip?raw\u003dtrue",
+    "log": "blueTheme.zip"
+  },
+  {
+    "name": "تم آبی تیره",
+    "img": "https://raw.githubusercontent.com/Arashvscode/GhostWebThemes/main/images/DARK%20BLUE%20THEME.png",
+    "data": "https://github.com/Arashvscode/GhostWebThemes/blob/main/Themes/bluedraktheme.zip?raw\u003dtrue",
+    "log": "bluedraktheme.zip"
+  },
+  {
+    "name": "تم تیره",
+    "img": "https://raw.githubusercontent.com/Arashvscode/GhostWebThemes/main/images/DARK%20THEME.png",
+    "data": "https://github.com/Arashvscode/GhostWebThemes/blob/main/Themes/DARK%20THEME.zip?raw\u003dtrue",
+    "log": "DARK THEME.zip"
   }
 ]
