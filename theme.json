@@ -2,11 +2,13 @@
   {
     "name": "تم بنفش ",
     "img": "https://raw.githubusercontent.com/Arashvscode/GhostWebThemes/main/images/GhostWebThemeAMIRHOSIN.png",
-    "data": "https://github.com/Arashvscode/GhostWebThemes/blob/main/Themes/amirhsoinTheme.zip?raw\u003dtrue"
+    "data": "https://github.com/Arashvscode/GhostWebThemes/blob/main/Themes/amirhsoinTheme.zip?raw\u003dtrue",
+    "log": "themeBansfsh.zip"
   },
   {
     "name": "تم پیشفرض ",
     "img": "https://raw.githubusercontent.com/Arashvscode/GhostWebThemes/main/images/theme_pishfarz.png",
-    "data": "https://github.com/Arashvscode/GhostWebThemes/blob/main/Themes/themepishfarz.zip?raw\u003dtrue"
+    "data": "https://github.com/Arashvscode/GhostWebThemes/blob/main/Themes/themepishfarz.zip?raw\u003dtrue",
+    "log": "themePishFars.zip"
   }
 ]
