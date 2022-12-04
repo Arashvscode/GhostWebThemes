@@ -1,8 +1,8 @@
 [
-    {
-        "Title": "Found New Version",
-        "Massges": "new App",
-        "Version": "1.4.4",
-        "Link": "https://myket.ir/app/Ninja.coder.Ghostemane.code"
-    }
+  {
+    "Title": "اپدیت جدید اومد",
+    "Massges": "ویژگی های جدید \n-رفع باگ های برنامه\n-رفع خطای تم\n-اضافه شدن دیالوگ اپدیت انلاین\n-گرافیک پنل کد ادیتور عوض شد",
+    "Version": "1.4.5",
+    "Link": "https://myket.ir/app/Ninja.coder.Ghostemane.code"
+  }
 ]
